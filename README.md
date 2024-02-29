@@ -9,8 +9,7 @@ Suemy Inagaki (si2324)
 Tianxiao He (th3129)
 Revin Dsilva (rd3387)
 
-Group Name:
-#TO DO
+Group Name: WildData Trio
 
 Project Title: Creating an Animal Product Classifier
 
