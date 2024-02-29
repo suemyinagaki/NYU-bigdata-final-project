@@ -12,6 +12,5 @@ Revin Dsilva (rd3387)
 Group Name:
 #TO DO
 
-Project Title:
-#To DO
+Project Title: Creating an Animal Product Classifier
 
